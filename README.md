@@ -44,5 +44,11 @@
   - Modal guardar libro
     ![image](https://github.com/ManuelRomero0310/PruebaTecnica/assets/150102075/03c57e9e-3135-4d17-b57f-dcc4bea42996)
     
+4. Diagrama entidad relación de la base de datos
+
+- ![image](https://github.com/ManuelRomero0310/PruebaTecnica/assets/150102075/7a9586d0-9865-461d-9a92-bf3a07e8b2a0)
+
+- ![image](https://github.com/ManuelRomero0310/PruebaTecnica/assets/150102075/3c62d12f-9d1b-4cde-9ec0-ef9b9d15777d)
+
 
 
